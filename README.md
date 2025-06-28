@@ -10,4 +10,6 @@ Pașii de rulare sunt:
 
 4) functie1_x care are rolul de a evalua performanța regulatorului PID estimat, folosind funcția de cost denumită 𝐽𝑉𝑅𝐹𝑇. Codul prezintă o implementare MATLAB pentru calculul costului mediu pătratic al unei comenzi reale filtrate obținute din datele măsurate într-un sistem cu buclă deschisă, comparată cu comanda generată de un regulator PID estimat, utilizând funcția func_MFC pentru a evalua performanța pe baza unui vector de parametri PID (RHO), lungimea semnalului (eVirt1L), și datele reale filtrate (uHist1L). Funcția obiectiv J este definită ca media erorilor pătrate între comanda filtrată și cea generată de PID pe intervalul de date, oferind o metrică de optimizare pentru acordarea regulatorului.
 
-5) 3) Schema simulink este Crane3D_testare.slcx
+5)  Schema simulink este Crane3D_testare.slcx
+
+Link-ul repository: https://github.com/David324529/Licenta-3D-Crane.git
